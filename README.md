@@ -45,7 +45,7 @@ O workflow `.github/workflows/nextjs.yml` (gerado pelo GitHub em Settings → Pa
 Este ambiente de desenvolvimento não tem acesso a uma chave da OpenRouteService nem à internet aberta, então:
 
 - As coordenadas (`lat`/`lng`) em `data/destinations.json` foram preenchidas manualmente com valores aproximados e conhecidos das cidades, só para o app funcionar de ponta a ponta.
-- Os tempos/distâncias em `data/travel-times/chapeco-sc.json` são **estimativas** baseadas em conhecimento geral de estradas da região, não vieram da ORS Matrix API.
+- Os tempos/distâncias em `data/travel-times/chapeco-sc.json` são **estimativas**, não vieram da ORS Matrix API. Foram calibradas a partir de 8 rotas reais conferidas no Google Maps (Florianópolis, Foz do Iguaçu, Gramado, Uruguaiana, Piratuba, Cascavel, Curitiba e Porto Alegre) — os destinos que batem exatamente com essas 8 rotas usam o valor real; os outros 12 foram estimados por interpolação (velocidade média da rota mais próxima calibrada), então ainda podem ter erro de 10–20%.
 
 Para gerar os valores reais e precisos:
 
