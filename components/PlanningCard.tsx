@@ -1,16 +1,18 @@
 "use client";
 
-import { useEffect, useRef, useState } from "react";
+import { useEffect, useMemo, useRef, useState } from "react";
+import { useSearchParams } from "next/navigation";
 import { toPng } from "html-to-image";
 import RoadIndexBadge from "./RoadIndexBadge";
-import { ROAD_INDEX_LABELS } from "@/config/rules";
+import { ROAD_INDEX_LABELS, computeRoadIndex } from "@/config/rules";
+import { DEFAULT_DAYS } from "@/lib/filters";
 import {
   formatCostLabel,
   formatKm,
   formatMinutesAsHours,
   formatMonthName,
 } from "@/lib/format";
-import type { Destination, RoadIndex, TravelTime } from "@/types";
+import type { Destination, TravelTime } from "@/types";
 
 const CARD_WIDTH = 1080;
 const CARD_HEIGHT = 1350;
@@ -18,18 +20,16 @@ const CARD_HEIGHT = 1350;
 interface PlanningCardProps {
   destination: Destination;
   travelTime: TravelTime;
-  roadIndex: RoadIndex;
-  days: number;
   originName: string;
 }
 
-export default function PlanningCard({
-  destination,
-  travelTime,
-  roadIndex,
-  days,
-  originName,
-}: PlanningCardProps) {
+export default function PlanningCard({ destination, travelTime, originName }: PlanningCardProps) {
+  const searchParams = useSearchParams();
+  const diasRaw = searchParams.get("dias");
+  const parsedDays = diasRaw ? parseInt(diasRaw, 10) : DEFAULT_DAYS;
+  const days = Number.isFinite(parsedDays) && parsedDays > 0 ? parsedDays : DEFAULT_DAYS;
+  const roadIndex = useMemo(() => computeRoadIndex(travelTime.minutes / 60, days), [travelTime, days]);
+
   const outerRef = useRef<HTMLDivElement>(null);
   const cardRef = useRef<HTMLDivElement>(null);
   const [containerWidth, setContainerWidth] = useState(CARD_WIDTH);

@@ -24,6 +24,18 @@ npm run dev
 
 Abra [http://localhost:3000](http://localhost:3000).
 
+`npm run build` gera um export estático em `out/` (o site não usa nenhuma API em tempo de execução, então roda inteiro como arquivos estáticos). `npm run start` serve esse `out/` localmente com o pacote `serve`, pra conferir o build de produção antes de publicar.
+
+## Deploy no GitHub Pages
+
+O site já está configurado como export estático (`output: "export"`) e todo o estado que antes rodava no servidor (filtros, seletor de dias, índice de estrada) roda no navegador — não depende de nenhum servidor Next.js em produção.
+
+1. No GitHub, vá em **Settings → Pages** do repositório e defina **Source: GitHub Actions** (só precisa fazer isso uma vez).
+2. Dê merge/push para a branch `main`. O workflow `.github/workflows/deploy-pages.yml` builda o site com `GITHUB_PAGES=true` (isso ativa o `basePath`/`assetPrefix` `/viagens`, necessário porque GitHub Pages de projeto serve em `usuario.github.io/viagens/`) e publica automaticamente.
+3. O site fica em `https://<seu-usuário>.github.io/viagens/`.
+
+Se o nome do repositório mudar, atualize o `basePath` em `next.config.ts`.
+
 ## Estrutura de dados
 
 - `data/destinations.json` — base de destinos (nome, tipos, melhor época, dias ideais, custo, destaques etc.)
