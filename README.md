@@ -30,11 +30,9 @@ Abra [http://localhost:3000](http://localhost:3000).
 
 O site já está configurado como export estático (`output: "export"`) e todo o estado que antes rodava no servidor (filtros, seletor de dias, índice de estrada) roda no navegador — não depende de nenhum servidor Next.js em produção.
 
-1. No GitHub, vá em **Settings → Pages** do repositório e defina **Source: GitHub Actions** (só precisa fazer isso uma vez).
-2. Dê merge/push para a branch `main`. O workflow `.github/workflows/deploy-pages.yml` builda o site com `GITHUB_PAGES=true` (isso ativa o `basePath`/`assetPrefix` `/viagens`, necessário porque GitHub Pages de projeto serve em `usuario.github.io/viagens/`) e publica automaticamente.
-3. O site fica em `https://<seu-usuário>.github.io/viagens/`.
+`next.config.ts` detecta automaticamente quando o build roda dentro do GitHub Actions (`GITHUB_ACTIONS`/`GITHUB_REPOSITORY`, definidos pelo próprio Actions) e ativa o `basePath`/`assetPrefix` `/<nome-do-repo>` sozinho — não precisa configurar nada a mais, e localmente (`npm run dev`/`npm run build`) continua servindo na raiz normalmente.
 
-Se o nome do repositório mudar, atualize o `basePath` em `next.config.ts`.
+O workflow `.github/workflows/nextjs.yml` (gerado pelo GitHub em Settings → Pages → Source: GitHub Actions) builda e publica a cada push na branch configurada nele. O site fica em `https://<seu-usuário>.github.io/<nome-do-repo>/`.
 
 ## Estrutura de dados
 
