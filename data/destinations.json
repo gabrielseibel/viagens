@@ -1,0 +1,648 @@
+[
+  {
+    "id": "piratuba-sc",
+    "name": "Piratuba",
+    "state": "SC",
+    "lat": -27.4356,
+    "lng": -51.7644,
+    "types": [
+      "termas"
+    ],
+    "bestMonths": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "idealDays": {
+      "min": 2,
+      "max": 3
+    },
+    "costRange": 2,
+    "summary": "Águas termais o ano todo, ainda mais gostosas no frio.",
+    "highlights": [
+      "Águas termais",
+      "Parques aquáticos termais",
+      "Cidade tranquila para descansar"
+    ],
+    "affiliateLinks": {}
+  },
+  {
+    "id": "treze-tilias-sc",
+    "name": "Treze Tílias",
+    "state": "SC",
+    "lat": -27.1806,
+    "lng": -51.4075,
+    "types": [
+      "cidade",
+      "gastronomia"
+    ],
+    "bestMonths": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "idealDays": {
+      "min": 2,
+      "max": 2
+    },
+    "costRange": 1,
+    "summary": "Colônia austríaca com arquitetura, chocolate e cuca por todo lado.",
+    "highlights": [
+      "Arquitetura austríaca",
+      "Fábricas de chocolate",
+      "Praça central charmosa"
+    ],
+    "affiliateLinks": {}
+  },
+  {
+    "id": "joacaba-sc",
+    "name": "Joaçaba",
+    "state": "SC",
+    "lat": -27.1758,
+    "lng": -51.5046,
+    "types": [
+      "cidade"
+    ],
+    "bestMonths": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "idealDays": {
+      "min": 2,
+      "max": 2
+    },
+    "costRange": 1,
+    "summary": "Cidade polo do meio-oeste catarinense, boa base para escapadas curtas.",
+    "highlights": [
+      "Catedral Sant'Ana",
+      "Parque de exposições",
+      "Rio do Peixe"
+    ],
+    "affiliateLinks": {}
+  },
+  {
+    "id": "irai-rs",
+    "name": "Iraí",
+    "state": "RS",
+    "lat": -27.1928,
+    "lng": -53.2497,
+    "types": [
+      "termas"
+    ],
+    "bestMonths": [
+      6,
+      7,
+      8
+    ],
+    "idealDays": {
+      "min": 2,
+      "max": 3
+    },
+    "costRange": 1,
+    "summary": "Estância hidromineral clássica do norte gaúcho, perfeita para o inverno.",
+    "highlights": [
+      "Águas termais",
+      "Parque das Águas",
+      "Clima de interior tranquilo"
+    ],
+    "affiliateLinks": {}
+  },
+  {
+    "id": "marcelino-ramos-rs",
+    "name": "Marcelino Ramos",
+    "state": "RS",
+    "lat": -27.4694,
+    "lng": -51.9233,
+    "types": [
+      "termas",
+      "natureza"
+    ],
+    "bestMonths": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "idealDays": {
+      "min": 2,
+      "max": 2
+    },
+    "costRange": 1,
+    "summary": "Termas e natureza na divisa entre SC e RS, ótima escapada de fim de semana.",
+    "highlights": [
+      "Águas termais",
+      "Rio Uruguai",
+      "Paisagem tranquila do interior"
+    ],
+    "affiliateLinks": {}
+  },
+  {
+    "id": "urubici-sc",
+    "name": "Urubici",
+    "state": "SC",
+    "lat": -28.0119,
+    "lng": -49.5928,
+    "types": [
+      "serra",
+      "natureza"
+    ],
+    "bestMonths": [
+      5,
+      6,
+      7,
+      8
+    ],
+    "idealDays": {
+      "min": 2,
+      "max": 4
+    },
+    "costRange": 2,
+    "summary": "Frio de verdade, cachoeiras e as paisagens mais altas de Santa Catarina.",
+    "highlights": [
+      "Morro da Igreja",
+      "Cascata do Avencal",
+      "Pedra Furada"
+    ],
+    "affiliateLinks": {}
+  },
+  {
+    "id": "sao-joaquim-sc",
+    "name": "São Joaquim",
+    "state": "SC",
+    "lat": -28.2939,
+    "lng": -49.9317,
+    "types": [
+      "serra",
+      "vinho"
+    ],
+    "bestMonths": [
+      5,
+      6,
+      7,
+      8
+    ],
+    "idealDays": {
+      "min": 2,
+      "max": 4
+    },
+    "costRange": 2,
+    "summary": "A cidade mais fria do Brasil, com vinhedos de altitude e neve ocasional.",
+    "highlights": [
+      "Vinícolas de altitude",
+      "Parque Nacional de São Joaquim",
+      "Pomares de maçã"
+    ],
+    "affiliateLinks": {}
+  },
+  {
+    "id": "serra-do-rio-do-rastro-sc",
+    "name": "Serra do Rio do Rastro / Lauro Müller",
+    "state": "SC",
+    "lat": -28.4025,
+    "lng": -49.5194,
+    "types": [
+      "serra",
+      "natureza"
+    ],
+    "bestMonths": [
+      3,
+      4,
+      5,
+      9,
+      10,
+      11
+    ],
+    "idealDays": {
+      "min": 2,
+      "max": 3
+    },
+    "costRange": 2,
+    "summary": "Uma das estradas mais bonitas do Brasil, com curvas e mirantes de tirar o fôlego.",
+    "highlights": [
+      "Mirante da Serra do Rio do Rastro",
+      "Estrada serpenteante",
+      "Cânions vizinhos"
+    ],
+    "affiliateLinks": {}
+  },
+  {
+    "id": "cambara-do-sul-rs",
+    "name": "Cambará do Sul",
+    "state": "RS",
+    "lat": -29.0453,
+    "lng": -50.1417,
+    "types": [
+      "serra",
+      "natureza"
+    ],
+    "bestMonths": [
+      3,
+      4,
+      5,
+      9,
+      10,
+      11
+    ],
+    "idealDays": {
+      "min": 3,
+      "max": 4
+    },
+    "costRange": 2,
+    "summary": "Portal dos cânions Itaimbezinho e Fortaleza, um dos points de natureza mais impressionantes do Sul.",
+    "highlights": [
+      "Cânion Itaimbezinho",
+      "Cânion Fortaleza",
+      "Trilhas com vista para o abismo"
+    ],
+    "affiliateLinks": {}
+  },
+  {
+    "id": "gramado-canela-rs",
+    "name": "Gramado e Canela",
+    "state": "RS",
+    "lat": -29.3747,
+    "lng": -50.8764,
+    "types": [
+      "serra",
+      "gastronomia"
+    ],
+    "bestMonths": [
+      6,
+      7,
+      8,
+      12
+    ],
+    "idealDays": {
+      "min": 3,
+      "max": 5
+    },
+    "costRange": 3,
+    "summary": "Clima europeu, gastronomia caprichada e decoração de Natal nacionalmente famosa.",
+    "highlights": [
+      "Rua Coberta",
+      "Mini Mundo",
+      "Parque do Caracol"
+    ],
+    "affiliateLinks": {}
+  },
+  {
+    "id": "bento-goncalves-rs",
+    "name": "Bento Gonçalves",
+    "state": "RS",
+    "lat": -29.1717,
+    "lng": -51.5194,
+    "types": [
+      "vinho",
+      "gastronomia"
+    ],
+    "bestMonths": [
+      1,
+      2,
+      3
+    ],
+    "idealDays": {
+      "min": 3,
+      "max": 4
+    },
+    "costRange": 2,
+    "summary": "Capital do vinho brasileiro, no coração da Serra Gaúcha.",
+    "highlights": [
+      "Vale dos Vinhedos",
+      "Maria Fumaça",
+      "Vindima (jan-mar)"
+    ],
+    "affiliateLinks": {}
+  },
+  {
+    "id": "foz-do-iguacu-pr",
+    "name": "Foz do Iguaçu",
+    "state": "PR",
+    "lat": -25.5478,
+    "lng": -54.5882,
+    "types": [
+      "natureza"
+    ],
+    "bestMonths": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "idealDays": {
+      "min": 3,
+      "max": 4
+    },
+    "costRange": 2,
+    "summary": "Uma das sete maravilhas naturais do mundo, com as Cataratas em todo seu esplendor.",
+    "highlights": [
+      "Cataratas do Iguaçu",
+      "Usina de Itaipu",
+      "Parque das Aves"
+    ],
+    "affiliateLinks": {}
+  },
+  {
+    "id": "curitiba-pr",
+    "name": "Curitiba",
+    "state": "PR",
+    "lat": -25.4284,
+    "lng": -49.2733,
+    "types": [
+      "cidade",
+      "gastronomia"
+    ],
+    "bestMonths": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "idealDays": {
+      "min": 2,
+      "max": 4
+    },
+    "costRange": 2,
+    "summary": "Capital paranaense com parques, arquitetura marcante e cena gastronômica forte.",
+    "highlights": [
+      "Jardim Botânico",
+      "Ópera de Arame",
+      "Mercado Municipal"
+    ],
+    "affiliateLinks": {}
+  },
+  {
+    "id": "blumenau-sc",
+    "name": "Blumenau",
+    "state": "SC",
+    "lat": -26.9194,
+    "lng": -49.0661,
+    "types": [
+      "cidade",
+      "gastronomia"
+    ],
+    "bestMonths": [
+      10
+    ],
+    "idealDays": {
+      "min": 2,
+      "max": 3
+    },
+    "costRange": 2,
+    "summary": "Colônia alemã famosa pela Oktoberfest e arquitetura enxaimel.",
+    "highlights": [
+      "Oktoberfest (outubro)",
+      "Vila Germânica",
+      "Arquitetura enxaimel"
+    ],
+    "affiliateLinks": {}
+  },
+  {
+    "id": "pomerode-sc",
+    "name": "Pomerode",
+    "state": "SC",
+    "lat": -26.7381,
+    "lng": -49.1758,
+    "types": [
+      "cidade",
+      "historia"
+    ],
+    "bestMonths": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "idealDays": {
+      "min": 2,
+      "max": 2
+    },
+    "costRange": 1,
+    "summary": "A cidade mais alemã do Brasil, com tradição preservada o ano inteiro.",
+    "highlights": [
+      "Zoológico de Pomerode",
+      "Arquitetura enxaimel",
+      "Museu Pomerano"
+    ],
+    "affiliateLinks": {}
+  },
+  {
+    "id": "florianopolis-sc",
+    "name": "Florianópolis",
+    "state": "SC",
+    "lat": -27.5954,
+    "lng": -48.548,
+    "types": [
+      "praia",
+      "cidade"
+    ],
+    "bestMonths": [
+      12,
+      1,
+      2,
+      3
+    ],
+    "idealDays": {
+      "min": 4,
+      "max": 7
+    },
+    "costRange": 3,
+    "summary": "A Ilha da Magia, com mais de 40 praias e vida urbana agitada.",
+    "highlights": [
+      "Praia da Joaquina",
+      "Lagoa da Conceição",
+      "Praia Mole"
+    ],
+    "affiliateLinks": {}
+  },
+  {
+    "id": "balneario-camboriu-sc",
+    "name": "Balneário Camboriú",
+    "state": "SC",
+    "lat": -26.9906,
+    "lng": -48.6349,
+    "types": [
+      "praia",
+      "cidade"
+    ],
+    "bestMonths": [
+      12,
+      1,
+      2,
+      3
+    ],
+    "idealDays": {
+      "min": 3,
+      "max": 5
+    },
+    "costRange": 3,
+    "summary": "Praia urbana com perfil de Miami, prédios altos e muita vida noturna.",
+    "highlights": [
+      "Praia Central",
+      "Parque Unipraias",
+      "Cristo Luz"
+    ],
+    "affiliateLinks": {}
+  },
+  {
+    "id": "garopaba-sc",
+    "name": "Garopaba",
+    "state": "SC",
+    "lat": -28.0261,
+    "lng": -48.61,
+    "types": [
+      "praia",
+      "natureza"
+    ],
+    "bestMonths": [
+      12,
+      1,
+      2,
+      3
+    ],
+    "idealDays": {
+      "min": 4,
+      "max": 7
+    },
+    "costRange": 2,
+    "summary": "Praias mais selvagens, clima surfista e trilhas na Mata Atlântica.",
+    "highlights": [
+      "Praia da Ferrugem",
+      "Praia do Rosa (vizinha)",
+      "Trilhas costeiras"
+    ],
+    "affiliateLinks": {}
+  },
+  {
+    "id": "sao-miguel-das-missoes-rs",
+    "name": "São Miguel das Missões",
+    "state": "RS",
+    "lat": -28.5561,
+    "lng": -54.5453,
+    "types": [
+      "historia"
+    ],
+    "bestMonths": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "idealDays": {
+      "min": 2,
+      "max": 2
+    },
+    "costRange": 1,
+    "summary": "Ruínas jesuíticas guaranis, Patrimônio Mundial da UNESCO.",
+    "highlights": [
+      "Ruínas de São Miguel Arcanjo",
+      "Museu das Missões",
+      "Espetáculo de som e luz"
+    ],
+    "affiliateLinks": {}
+  },
+  {
+    "id": "porto-alegre-rs",
+    "name": "Porto Alegre",
+    "state": "RS",
+    "lat": -30.0346,
+    "lng": -51.2177,
+    "types": [
+      "cidade",
+      "gastronomia"
+    ],
+    "bestMonths": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "idealDays": {
+      "min": 3,
+      "max": 4
+    },
+    "costRange": 2,
+    "summary": "Capital gaúcha às margens do Guaíba, com cultura, gastronomia e vida urbana.",
+    "highlights": [
+      "Cais Mauá",
+      "Pôr do sol no Guaíba",
+      "Mercado Público"
+    ],
+    "affiliateLinks": {}
+  }
+]
