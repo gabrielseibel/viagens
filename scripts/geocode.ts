@@ -3,10 +3,12 @@
  * Não sobrescreve coordenadas já preenchidas (diferentes de 0).
  * Roda localmente: npm run geocode
  */
-import "dotenv/config";
+import { config } from "dotenv";
 import { readFileSync, writeFileSync } from "node:fs";
 import path from "node:path";
 import type { Destination } from "@/types";
+
+config({ path: ".env.local" });
 
 const ORS_API_KEY = process.env.ORS_API_KEY;
 const DESTINATIONS_PATH = path.join(process.cwd(), "data", "destinations.json");
