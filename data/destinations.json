@@ -1581,5 +1581,1965 @@
       "Mirante do Morro São João"
     ],
     "affiliateLinks": {}
+  },
+  {
+    "id": "tres-coroas-rs",
+    "name": "Três Coroas",
+    "state": "RS",
+    "lat": -29.5136,
+    "lng": -50.7781,
+    "types": [
+      "natureza",
+      "cidade"
+    ],
+    "bestMonths": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "idealDays": {
+      "min": 2,
+      "max": 2
+    },
+    "costRange": 2,
+    "summary": "A poucos km de Gramado, mas já fora da Serra, reúne rafting em três parques no Vale do Paranhana e um templo budista no alto de uma montanha.",
+    "highlights": [
+      "Templo Budista Chagdud Gonpa Khadro Ling",
+      "Rafting no Vale do Paranhana",
+      "Rio Paranhana"
+    ],
+    "affiliateLinks": {}
+  },
+  {
+    "id": "flores-da-cunha-rs",
+    "name": "Flores da Cunha",
+    "state": "RS",
+    "lat": -29.0244,
+    "lng": -51.1811,
+    "types": [
+      "vinho",
+      "gastronomia"
+    ],
+    "bestMonths": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "idealDays": {
+      "min": 2,
+      "max": 2
+    },
+    "costRange": 2,
+    "summary": "Vizinha de Caxias do Sul, respira uva e vinho com cenários de videiras, cantinas e a sofisticada Vinícola Luiz Argenta.",
+    "highlights": [
+      "Vinícola Luiz Argenta",
+      "Caminhos da Colônia",
+      "Cantinas da zona rural"
+    ],
+    "affiliateLinks": {}
+  },
+  {
+    "id": "veranopolis-rs",
+    "name": "Veranópolis",
+    "state": "RS",
+    "lat": -28.9364,
+    "lng": -51.5528,
+    "types": [
+      "natureza",
+      "cidade",
+      "gastronomia"
+    ],
+    "bestMonths": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "idealDays": {
+      "min": 2,
+      "max": 2
+    },
+    "costRange": 2,
+    "summary": "Conhecida como capital brasileira da longevidade, tem um restaurante giratório e um mirante com vista para o Rio das Antas.",
+    "highlights": [
+      "Mirante Belvedere",
+      "Restaurante giratório",
+      "Ponte Ernesto Dornelles"
+    ],
+    "affiliateLinks": {}
+  },
+  {
+    "id": "nova-prata-rs",
+    "name": "Nova Prata",
+    "state": "RS",
+    "lat": -28.7825,
+    "lng": -51.6094,
+    "types": [
+      "termas",
+      "natureza"
+    ],
+    "bestMonths": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "idealDays": {
+      "min": 2,
+      "max": 2
+    },
+    "costRange": 2,
+    "summary": "O parque termal Caldas do Prata fica encostado num penhasco à beira do rio, misturando água quente com cachoeira num cenário só.",
+    "highlights": [
+      "Caldas do Prata",
+      "Cachoeira do Rio da Prata",
+      "Portal de basalto da cidade"
+    ],
+    "affiliateLinks": {}
+  },
+  {
+    "id": "antonio-prado-rs",
+    "name": "Antônio Prado",
+    "state": "RS",
+    "lat": -28.8608,
+    "lng": -51.2853,
+    "types": [
+      "historia",
+      "cidade"
+    ],
+    "bestMonths": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "idealDays": {
+      "min": 2,
+      "max": 2
+    },
+    "costRange": 1,
+    "summary": "Considerada a cidade mais italiana do Brasil, guarda um casario de madeira preservado no centro histórico e um sotaque puxado até hoje.",
+    "highlights": [
+      "Centro Histórico tombado",
+      "Casario de madeira",
+      "Praça Garibaldi"
+    ],
+    "affiliateLinks": {}
+  },
+  {
+    "id": "sao-marcos-rs",
+    "name": "São Marcos",
+    "state": "RS",
+    "lat": -28.9611,
+    "lng": -51.0669,
+    "types": [
+      "vinho",
+      "gastronomia"
+    ],
+    "bestMonths": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "idealDays": {
+      "min": 2,
+      "max": 2
+    },
+    "costRange": 2,
+    "summary": "Na Rota da Uva e do Vinho, entre duas serras, reúne cantinas, vinícolas e a tradicional comida italiana de colônia.",
+    "highlights": [
+      "Morro do Calvário",
+      "Vale do Rio das Antas",
+      "Cantinas e vinícolas locais"
+    ],
+    "affiliateLinks": {}
+  },
+  {
+    "id": "sao-jose-dos-ausentes-rs",
+    "name": "São José dos Ausentes",
+    "state": "RS",
+    "lat": -28.7489,
+    "lng": -50.0653,
+    "types": [
+      "natureza",
+      "serra"
+    ],
+    "bestMonths": [
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "idealDays": {
+      "min": 3,
+      "max": 4
+    },
+    "costRange": 2,
+    "summary": "A cidade mais fria do Rio Grande do Sul reúne 8 cânions gigantescos, cachoeiras e hotéis fazenda em meio a campos de altitude.",
+    "highlights": [
+      "Cânion Monte Negro",
+      "Cânion Amola Faca",
+      "Cânion da Boa Vista"
+    ],
+    "affiliateLinks": {}
+  },
+  {
+    "id": "vacaria-rs",
+    "name": "Vacaria",
+    "state": "RS",
+    "lat": -28.5117,
+    "lng": -50.9336,
+    "types": [
+      "natureza",
+      "vinho",
+      "cidade"
+    ],
+    "bestMonths": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "idealDays": {
+      "min": 2,
+      "max": 3
+    },
+    "costRange": 2,
+    "summary": "Terra do Rodeio Internacional e um dos maiores produtores de maçã do Brasil, com uma catedral de pedra e um parque de três cachoeiras.",
+    "highlights": [
+      "Parque das Cachoeiras",
+      "Vinícola Campestre",
+      "Catedral de pedra"
+    ],
+    "affiliateLinks": {}
+  },
+  {
+    "id": "guapore-rs",
+    "name": "Guaporé",
+    "state": "RS",
+    "lat": -28.9994,
+    "lng": -51.8908,
+    "types": [
+      "historia",
+      "cidade"
+    ],
+    "bestMonths": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "idealDays": {
+      "min": 2,
+      "max": 2
+    },
+    "costRange": 1,
+    "summary": "Conhecida como a Capital da Hospitalidade, é ponto de partida do Trem dos Vales, que atravessa a espetacular Ferrovia do Trigo.",
+    "highlights": [
+      "Cristo Redentor e mirante da cidade",
+      "Ferrovia do Trigo e Viaduto 13",
+      "Igreja Matriz Santo Antônio"
+    ],
+    "affiliateLinks": {}
+  },
+  {
+    "id": "serafina-correa-rs",
+    "name": "Serafina Corrêa",
+    "state": "RS",
+    "lat": -28.7147,
+    "lng": -51.9319,
+    "types": [
+      "historia",
+      "cidade"
+    ],
+    "bestMonths": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "idealDays": {
+      "min": 2,
+      "max": 2
+    },
+    "costRange": 1,
+    "summary": "Na Via Gênova, réplicas de prédios históricos italianos recriam um pedacinho da Itália em plena colônia gaúcha.",
+    "highlights": [
+      "Via Gênova e réplicas históricas",
+      "Monumento La Nave Degli Imigrante",
+      "Tradição da imigração italiana"
+    ],
+    "affiliateLinks": {}
+  },
+  {
+    "id": "encantado-rs",
+    "name": "Encantado",
+    "state": "RS",
+    "lat": -29.235,
+    "lng": -51.8683,
+    "types": [
+      "cidade",
+      "historia"
+    ],
+    "bestMonths": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "idealDays": {
+      "min": 2,
+      "max": 2
+    },
+    "costRange": 1,
+    "summary": "Ganhou fama por abrigar a maior estátua de Cristo do mundo, com 37,5 m de altura e elevador até o coração da imagem.",
+    "highlights": [
+      "Cristo Protetor",
+      "Vale do Taquari",
+      "Mirante do complexo"
+    ],
+    "affiliateLinks": {}
+  },
+  {
+    "id": "santa-cruz-do-sul-rs",
+    "name": "Santa Cruz do Sul",
+    "state": "RS",
+    "lat": -29.7175,
+    "lng": -52.4258,
+    "types": [
+      "cidade",
+      "historia",
+      "gastronomia"
+    ],
+    "bestMonths": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "idealDays": {
+      "min": 2,
+      "max": 2
+    },
+    "costRange": 2,
+    "summary": "Referência na imigração alemã, sedia uma das melhores Oktoberfests do estado e a maior catedral de seu estilo na América Latina.",
+    "highlights": [
+      "Catedral São João Batista",
+      "Oktoberfest de Santa Cruz do Sul",
+      "Centro histórico alemão"
+    ],
+    "affiliateLinks": {}
+  },
+  {
+    "id": "venancio-aires-rs",
+    "name": "Venâncio Aires",
+    "state": "RS",
+    "lat": -29.6122,
+    "lng": -52.1936,
+    "types": [
+      "cidade",
+      "gastronomia"
+    ],
+    "bestMonths": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "idealDays": {
+      "min": 2,
+      "max": 2
+    },
+    "costRange": 1,
+    "summary": "Capital Nacional do Chimarrão, com uma imponente igreja matriz e a Cascata do Chuveirão na zona rural.",
+    "highlights": [
+      "Igreja Matriz São Sebastião Mártir",
+      "Cascata do Chuveirão",
+      "Figueira centenária"
+    ],
+    "affiliateLinks": {}
+  },
+  {
+    "id": "cachoeira-do-sul-rs",
+    "name": "Cachoeira do Sul",
+    "state": "RS",
+    "lat": -30.0392,
+    "lng": -52.8939,
+    "types": [
+      "historia",
+      "cidade"
+    ],
+    "bestMonths": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "idealDays": {
+      "min": 2,
+      "max": 2
+    },
+    "costRange": 1,
+    "summary": "Uma das cidades mais antigas do RS e Capital Nacional do Arroz, com o inusitado Château d'Eau e pontes centenárias.",
+    "highlights": [
+      "Château d'Eau",
+      "Catedral Nossa Senhora da Conceição",
+      "Ponte de Pedra de Botucaraí"
+    ],
+    "affiliateLinks": {}
+  },
+  {
+    "id": "cidreira-rs",
+    "name": "Cidreira",
+    "state": "RS",
+    "lat": -30.1789,
+    "lng": -50.2117,
+    "types": [
+      "praia",
+      "natureza"
+    ],
+    "bestMonths": [
+      11,
+      12,
+      1,
+      2,
+      3
+    ],
+    "idealDays": {
+      "min": 2,
+      "max": 4
+    },
+    "costRange": 2,
+    "summary": "Um dos balneários mais antigos do Litoral Norte gaúcho, com metade do território coberto por dunas entre o mar e três lagoas.",
+    "highlights": [
+      "Farol centenário",
+      "Dunas e lagoas",
+      "Estátua de Iemanjá"
+    ],
+    "affiliateLinks": {}
+  },
+  {
+    "id": "rio-grande-rs",
+    "name": "Rio Grande",
+    "state": "RS",
+    "lat": -32.035,
+    "lng": -52.0986,
+    "types": [
+      "historia",
+      "praia",
+      "cidade"
+    ],
+    "bestMonths": [
+      11,
+      12,
+      1,
+      2,
+      3
+    ],
+    "idealDays": {
+      "min": 2,
+      "max": 4
+    },
+    "costRange": 2,
+    "summary": "A cidade mais antiga do estado, com centro histórico rico em museus, o Molhe da Barra e a Praia do Cassino, considerada a maior praia do mundo.",
+    "highlights": [
+      "Molhes da Barra",
+      "Praia do Cassino",
+      "Centro histórico e museus"
+    ],
+    "affiliateLinks": {}
+  },
+  {
+    "id": "sao-lourenco-do-sul-rs",
+    "name": "São Lourenço do Sul",
+    "state": "RS",
+    "lat": -31.3653,
+    "lng": -51.9781,
+    "types": [
+      "praia",
+      "natureza"
+    ],
+    "bestMonths": [
+      11,
+      12,
+      1,
+      2,
+      3
+    ],
+    "idealDays": {
+      "min": 2,
+      "max": 3
+    },
+    "costRange": 1,
+    "summary": "Às margens da Lagoa dos Patos, a maior lagoa de água doce do mundo, com praias de águas calmas e clima tranquilo.",
+    "highlights": [
+      "Praia da Barrinha",
+      "Lagoa dos Patos",
+      "Orla tranquila"
+    ],
+    "affiliateLinks": {}
+  },
+  {
+    "id": "santo-angelo-rs",
+    "name": "Santo Ângelo",
+    "state": "RS",
+    "lat": -28.2986,
+    "lng": -54.2631,
+    "types": [
+      "historia",
+      "cidade"
+    ],
+    "bestMonths": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "idealDays": {
+      "min": 2,
+      "max": 2
+    },
+    "costRange": 2,
+    "summary": "Conhecida como a Capital das Missões, tem no centro a bela Catedral Angelopolitana e prédios que contam a história guarani-jesuítica.",
+    "highlights": [
+      "Catedral Angelopolitana",
+      "Praça Pinheiro Machado",
+      "Museu Municipal"
+    ],
+    "affiliateLinks": {}
+  },
+  {
+    "id": "passo-fundo-rs",
+    "name": "Passo Fundo",
+    "state": "RS",
+    "lat": -28.2628,
+    "lng": -52.4067,
+    "types": [
+      "cidade"
+    ],
+    "bestMonths": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "idealDays": {
+      "min": 2,
+      "max": 2
+    },
+    "costRange": 2,
+    "summary": "A maior cidade do Norte gaúcho, conhecida como Capital Nacional da Literatura, com parques e marcos arquitetônicos espalhados pelo centro.",
+    "highlights": [
+      "Parque da Gare",
+      "Marcos arquitetônicos do centro",
+      "Praças históricas"
+    ],
+    "affiliateLinks": {}
+  },
+  {
+    "id": "santa-maria-rs",
+    "name": "Santa Maria",
+    "state": "RS",
+    "lat": -29.6842,
+    "lng": -53.8069,
+    "types": [
+      "cidade",
+      "historia"
+    ],
+    "bestMonths": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "idealDays": {
+      "min": 2,
+      "max": 3
+    },
+    "costRange": 2,
+    "summary": "Maior cidade da região central gaúcha e berço da paleontologia no Brasil, com igrejas, museus e praças de herança italiana.",
+    "highlights": [
+      "Largo da Locomotiva",
+      "Museus e igrejas do centro",
+      "Universidade Federal de Santa Maria"
+    ],
+    "affiliateLinks": {}
+  },
+  {
+    "id": "restinga-seca-rs",
+    "name": "Restinga Seca",
+    "state": "RS",
+    "lat": -29.8367,
+    "lng": -53.3742,
+    "types": [
+      "termas"
+    ],
+    "bestMonths": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "idealDays": {
+      "min": 2,
+      "max": 2
+    },
+    "costRange": 2,
+    "summary": "As Termas Romanas do Recanto Maestro são o único parque aquático com águas termais salgadas e medicinais naturais do Brasil.",
+    "highlights": [
+      "Termas Romanas do Recanto Maestro",
+      "Resort com infraestrutura completa",
+      "Antiga Estação Férrea"
+    ],
+    "affiliateLinks": {}
+  },
+  {
+    "id": "machadinho-rs",
+    "name": "Machadinho",
+    "state": "RS",
+    "lat": -27.5578,
+    "lng": -51.6631,
+    "types": [
+      "termas"
+    ],
+    "bestMonths": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "idealDays": {
+      "min": 2,
+      "max": 2
+    },
+    "costRange": 2,
+    "summary": "O Parque Aquático Termas Machadinho tem piscinas internas e externas a 45°C numa área arborizada, com boa estrutura de hospedagem ao redor.",
+    "highlights": [
+      "Termas Machadinho",
+      "Piscinas termais internas e externas",
+      "Área arborizada com infraestrutura completa"
+    ],
+    "affiliateLinks": {}
+  },
+  {
+    "id": "derrubadas-rs",
+    "name": "Derrubadas",
+    "state": "RS",
+    "lat": -27.2814,
+    "lng": -53.8817,
+    "types": [
+      "natureza"
+    ],
+    "bestMonths": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "idealDays": {
+      "min": 2,
+      "max": 2
+    },
+    "costRange": 1,
+    "summary": "Abriga o Salto do Yucumã, considerada a mais extensa queda d'água longitudinal do mundo, com 1.800 m de largura no Rio Uruguai.",
+    "highlights": [
+      "Salto do Yucumã",
+      "Parque Estadual do Turvo",
+      "Rio Uruguai"
+    ],
+    "affiliateLinks": {}
+  },
+  {
+    "id": "ametista-do-sul-rs",
+    "name": "Ametista do Sul",
+    "state": "RS",
+    "lat": -27.3556,
+    "lng": -53.1667,
+    "types": [
+      "natureza",
+      "historia"
+    ],
+    "bestMonths": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "idealDays": {
+      "min": 2,
+      "max": 2
+    },
+    "costRange": 2,
+    "summary": "A Capital Mundial da Pedra Ametista tem o subsolo repleto de túneis e minas, algumas transformadas em restaurantes e vinícolas subterrâneas.",
+    "highlights": [
+      "Minas de ametista visitáveis",
+      "Restaurante subterrâneo",
+      "Museus e lojas de pedras"
+    ],
+    "affiliateLinks": {}
+  },
+  {
+    "id": "barra-velha-sc",
+    "name": "Barra Velha",
+    "state": "SC",
+    "lat": -26.6314,
+    "lng": -48.6867,
+    "types": [
+      "praia",
+      "cidade"
+    ],
+    "bestMonths": [
+      11,
+      12,
+      1,
+      2,
+      3
+    ],
+    "idealDays": {
+      "min": 2,
+      "max": 3
+    },
+    "costRange": 2,
+    "summary": "Praias urbanizadas ao longo da BR-101 e uma península mais deserta ao norte, com o Mirante do Cristo dominando a vista central.",
+    "highlights": [
+      "Mirante do Cristo",
+      "Praia central",
+      "Lagoa de Barra Velha"
+    ],
+    "affiliateLinks": {}
+  },
+  {
+    "id": "picarras-sc",
+    "name": "Piçarras",
+    "state": "SC",
+    "lat": -26.7642,
+    "lng": -48.6717,
+    "types": [
+      "praia"
+    ],
+    "bestMonths": [
+      11,
+      12,
+      1,
+      2,
+      3
+    ],
+    "idealDays": {
+      "min": 2,
+      "max": 3
+    },
+    "costRange": 2,
+    "summary": "Continuação do litoral de Barra Velha, com um calçadão à beira do Rio Piçarras que é ponto de partida para passeios de barco.",
+    "highlights": [
+      "Molhe Sul",
+      "Calçadão do Rio Piçarras",
+      "Passeios de barco"
+    ],
+    "affiliateLinks": {}
+  },
+  {
+    "id": "penha-sc",
+    "name": "Penha",
+    "state": "SC",
+    "lat": -26.7719,
+    "lng": -48.6478,
+    "types": [
+      "praia",
+      "cidade"
+    ],
+    "bestMonths": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "idealDays": {
+      "min": 2,
+      "max": 3
+    },
+    "costRange": 3,
+    "summary": "Praias entre montanhas que avançam até o mar dividem espaço com o Beto Carrero World, o maior parque temático da América Latina.",
+    "highlights": [
+      "Beto Carrero World",
+      "Praias entre morros",
+      "Barcos de pescadores"
+    ],
+    "affiliateLinks": {}
+  },
+  {
+    "id": "navegantes-sc",
+    "name": "Navegantes",
+    "state": "SC",
+    "lat": -26.8986,
+    "lng": -48.6547,
+    "types": [
+      "praia"
+    ],
+    "bestMonths": [
+      11,
+      12,
+      1,
+      2,
+      3
+    ],
+    "idealDays": {
+      "min": 2,
+      "max": 3
+    },
+    "costRange": 2,
+    "summary": "Praias extensas e pouco acidentadas, com os pontos mais urbanizados perto do Rio Itajaí e na Praia Gravatá, na divisa com Penha.",
+    "highlights": [
+      "Praia Gravatá",
+      "Orla junto ao Rio Itajaí",
+      "Praia central"
+    ],
+    "affiliateLinks": {}
+  },
+  {
+    "id": "itajai-sc",
+    "name": "Itajaí",
+    "state": "SC",
+    "lat": -26.9078,
+    "lng": -48.6614,
+    "types": [
+      "praia",
+      "cidade",
+      "historia"
+    ],
+    "bestMonths": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "idealDays": {
+      "min": 2,
+      "max": 2
+    },
+    "costRange": 2,
+    "summary": "Cidade portuária com praias, mirantes e um molhe de onde dá para ver os grandes navios entrando no porto de Itajaí.",
+    "highlights": [
+      "Mirante do Morro da Cruz",
+      "Praia Brava",
+      "Molhe do porto"
+    ],
+    "affiliateLinks": {}
+  },
+  {
+    "id": "itapema-sc",
+    "name": "Itapema",
+    "state": "SC",
+    "lat": -27.0894,
+    "lng": -48.6114,
+    "types": [
+      "praia",
+      "cidade"
+    ],
+    "bestMonths": [
+      11,
+      12,
+      1,
+      2,
+      3
+    ],
+    "idealDays": {
+      "min": 3,
+      "max": 5
+    },
+    "costRange": 2,
+    "summary": "Uma das preferidas para férias de verão no litoral catarinense, com boas praias, vida noturna e fácil acesso a Bombinhas e Balneário Camboriú.",
+    "highlights": [
+      "Praia central de Itapema",
+      "Mirante do Encanto",
+      "Vida noturna e shoppings"
+    ],
+    "affiliateLinks": {}
+  },
+  {
+    "id": "porto-belo-sc",
+    "name": "Porto Belo",
+    "state": "SC",
+    "lat": -27.1578,
+    "lng": -48.5525,
+    "types": [
+      "praia"
+    ],
+    "bestMonths": [
+      11,
+      12,
+      1,
+      2,
+      3
+    ],
+    "idealDays": {
+      "min": 2,
+      "max": 4
+    },
+    "costRange": 2,
+    "summary": "Entre Itapema e Bombinhas, tem a paradisíaca Ilha de Porto Belo e a badalada Praia do Caixa D'Aço, point de lanchas e bares flutuantes.",
+    "highlights": [
+      "Ilha de Porto Belo",
+      "Praia do Caixa D'Aço",
+      "Praia do Estaleiro"
+    ],
+    "affiliateLinks": {}
+  },
+  {
+    "id": "palhoca-sc",
+    "name": "Palhoça",
+    "state": "SC",
+    "lat": -27.6386,
+    "lng": -48.6708,
+    "types": [
+      "praia",
+      "natureza"
+    ],
+    "bestMonths": [
+      11,
+      12,
+      1,
+      2,
+      3
+    ],
+    "idealDays": {
+      "min": 2,
+      "max": 3
+    },
+    "costRange": 2,
+    "summary": "Logo ao sul da ilha de Florianópolis, reúne a famosa Guarda do Embaú e praias mais desertas como a do Sonho, boas para trilhas.",
+    "highlights": [
+      "Guarda do Embaú",
+      "Praia do Sonho",
+      "Trilhas costeiras"
+    ],
+    "affiliateLinks": {}
+  },
+  {
+    "id": "ararangua-sc",
+    "name": "Araranguá",
+    "state": "SC",
+    "lat": -28.9356,
+    "lng": -49.4886,
+    "types": [
+      "praia",
+      "natureza"
+    ],
+    "bestMonths": [
+      11,
+      12,
+      1,
+      2,
+      3
+    ],
+    "idealDays": {
+      "min": 2,
+      "max": 3
+    },
+    "costRange": 2,
+    "summary": "Mar mais retilíneo no extremo sul do litoral catarinense, com o Morro dos Conventos servindo de mirante e ponto de voo de parapente.",
+    "highlights": [
+      "Morro dos Conventos",
+      "Voo de parapente",
+      "Dunas locais"
+    ],
+    "affiliateLinks": {}
+  },
+  {
+    "id": "urupema-sc",
+    "name": "Urupema",
+    "state": "SC",
+    "lat": -27.9792,
+    "lng": -49.8394,
+    "types": [
+      "serra",
+      "natureza"
+    ],
+    "bestMonths": [
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "idealDays": {
+      "min": 2,
+      "max": 3
+    },
+    "costRange": 2,
+    "summary": "A cidade mais fria do Brasil, onde o termômetro da praça já marcou -6°C e uma cachoeira literalmente congela nos dias mais frios.",
+    "highlights": [
+      "Cascata que Congela",
+      "Praça central (recorde de frio)",
+      "Paisagens de altitude"
+    ],
+    "affiliateLinks": {}
+  },
+  {
+    "id": "alfredo-wagner-sc",
+    "name": "Alfredo Wagner",
+    "state": "SC",
+    "lat": -27.6975,
+    "lng": -49.3236,
+    "types": [
+      "natureza"
+    ],
+    "bestMonths": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "idealDays": {
+      "min": 2,
+      "max": 2
+    },
+    "costRange": 1,
+    "summary": "Numa área de transição entre a serra e o vale, tem cachoeiras e grutas escondidas entre montanhas, com destaque para os Soldados de Sebold.",
+    "highlights": [
+      "Soldados de Sebold",
+      "Cachoeiras da região",
+      "Trilhas entre montanhas"
+    ],
+    "affiliateLinks": {}
+  },
+  {
+    "id": "bom-retiro-sc",
+    "name": "Bom Retiro",
+    "state": "SC",
+    "lat": -27.7956,
+    "lng": -49.4889,
+    "types": [
+      "natureza",
+      "serra"
+    ],
+    "bestMonths": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "idealDays": {
+      "min": 2,
+      "max": 3
+    },
+    "costRange": 1,
+    "summary": "Ainda pouco conhecido no turismo catarinense, reúne cachoeiras, montanhas e mirantes ideais para o ecoturismo, com destaque para o Cânion Papuã.",
+    "highlights": [
+      "Cânion Papuã",
+      "Cachoeiras da zona rural",
+      "Mirantes de altitude"
+    ],
+    "affiliateLinks": {}
+  },
+  {
+    "id": "praia-grande-sc",
+    "name": "Praia Grande",
+    "state": "SC",
+    "lat": -29.1897,
+    "lng": -49.9494,
+    "types": [
+      "natureza",
+      "serra"
+    ],
+    "bestMonths": [
+      3,
+      4,
+      5,
+      9,
+      10,
+      11
+    ],
+    "idealDays": {
+      "min": 2,
+      "max": 3
+    },
+    "costRange": 2,
+    "summary": "Conhecida como a capital dos cânions, fica na base do Itaimbezinho (visto de baixo, ao contrário de Cambará do Sul) e é point de voo de balão.",
+    "highlights": [
+      "Cânion Itaimbezinho (vista de baixo)",
+      "Trilha do Rio do Boi",
+      "Voos de balão diários"
+    ],
+    "affiliateLinks": {}
+  },
+  {
+    "id": "nova-veneza-sc",
+    "name": "Nova Veneza",
+    "state": "SC",
+    "lat": -28.6553,
+    "lng": -49.5017,
+    "types": [
+      "historia",
+      "gastronomia",
+      "natureza"
+    ],
+    "bestMonths": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "idealDays": {
+      "min": 2,
+      "max": 2
+    },
+    "costRange": 2,
+    "summary": "A cidade mais italiana de Santa Catarina mistura ecoturismo, restaurantes típicos e trilhas até cachoeiras de mais de 100 m de altura.",
+    "highlights": [
+      "Cachoeira do Cantão",
+      "Rua Coberta e praça central",
+      "Restaurantes de comida italiana"
+    ],
+    "affiliateLinks": {}
+  },
+  {
+    "id": "criciuma-sc",
+    "name": "Criciúma",
+    "state": "SC",
+    "lat": -28.6775,
+    "lng": -49.3697,
+    "types": [
+      "cidade",
+      "historia"
+    ],
+    "bestMonths": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "idealDays": {
+      "min": 2,
+      "max": 2
+    },
+    "costRange": 2,
+    "summary": "Maior cidade do Sul catarinense, com a única mina de carvão aberta à visitação no Brasil e boa base para explorar a região.",
+    "highlights": [
+      "Mina Octavio Fontana",
+      "Parque das Nações",
+      "Museu de Zoologia da UNESC"
+    ],
+    "affiliateLinks": {}
+  },
+  {
+    "id": "sideropolis-sc",
+    "name": "Siderópolis",
+    "state": "SC",
+    "lat": -28.5981,
+    "lng": -49.4275,
+    "types": [
+      "natureza"
+    ],
+    "bestMonths": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "idealDays": {
+      "min": 2,
+      "max": 2
+    },
+    "costRange": 1,
+    "summary": "Na encosta das montanhas, tem a Barragem do Rio São Bento e formações rochosas como a Janela Furada, acessíveis por trilha.",
+    "highlights": [
+      "Janela Furada",
+      "Barragem do Rio São Bento",
+      "Gruta da Serrinha"
+    ],
+    "affiliateLinks": {}
+  },
+  {
+    "id": "treviso-sc",
+    "name": "Treviso",
+    "state": "SC",
+    "lat": -28.5211,
+    "lng": -49.465,
+    "types": [
+      "natureza"
+    ],
+    "bestMonths": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "idealDays": {
+      "min": 2,
+      "max": 2
+    },
+    "costRange": 1,
+    "summary": "Pouco conhecida, tem cachoeiras e formações rochosas curiosas como a Pedra dos Dois Dedos, acessíveis por trilhas curtas.",
+    "highlights": [
+      "Pedra dos Dois Dedos",
+      "Cachoeira Cirenaica",
+      "Mirante do Cristo"
+    ],
+    "affiliateLinks": {}
+  },
+  {
+    "id": "grao-para-sc",
+    "name": "Grão Pará",
+    "state": "SC",
+    "lat": -28.1789,
+    "lng": -49.3072,
+    "types": [
+      "natureza",
+      "serra"
+    ],
+    "bestMonths": [
+      3,
+      4,
+      5,
+      9,
+      10,
+      11
+    ],
+    "idealDays": {
+      "min": 2,
+      "max": 2
+    },
+    "costRange": 1,
+    "summary": "Situada abaixo da cinematográfica Serra do Corvo Branco, revela vales e montanhas em trilhas como a das Pirâmides.",
+    "highlights": [
+      "Trilha das Pirâmides",
+      "Serra do Corvo Branco",
+      "Cachoeira Olívio Kuelkamp"
+    ],
+    "affiliateLinks": {}
+  },
+  {
+    "id": "rio-do-sul-sc",
+    "name": "Rio do Sul",
+    "state": "SC",
+    "lat": -27.2156,
+    "lng": -49.6444,
+    "types": [
+      "cidade",
+      "natureza"
+    ],
+    "bestMonths": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "idealDays": {
+      "min": 2,
+      "max": 2
+    },
+    "costRange": 1,
+    "summary": "Pouco divulgada, mas com boas opções entre atrações urbanas e naturais, com a majestosa Catedral São João Batista no centro.",
+    "highlights": [
+      "Catedral São João Batista",
+      "Cachoeira da Magia",
+      "Morro do Funil"
+    ],
+    "affiliateLinks": {}
+  },
+  {
+    "id": "timbo-sc",
+    "name": "Timbó",
+    "state": "SC",
+    "lat": -26.8225,
+    "lng": -49.2731,
+    "types": [
+      "cidade",
+      "natureza"
+    ],
+    "bestMonths": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "idealDays": {
+      "min": 2,
+      "max": 2
+    },
+    "costRange": 1,
+    "summary": "O complexo Jardim do Imigrante forma um cenário charmoso junto ao Rio Benedito, com cachoeiras artificiais e arquitetura enxaimel.",
+    "highlights": [
+      "Complexo Jardim do Imigrante",
+      "Ponte de pedestres enxaimel",
+      "Rio Benedito"
+    ],
+    "affiliateLinks": {}
+  },
+  {
+    "id": "jaragua-do-sul-sc",
+    "name": "Jaraguá do Sul",
+    "state": "SC",
+    "lat": -26.4869,
+    "lng": -49.0664,
+    "types": [
+      "cidade",
+      "historia"
+    ],
+    "bestMonths": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "idealDays": {
+      "min": 2,
+      "max": 2
+    },
+    "costRange": 2,
+    "summary": "Conhecida como capital da malha, tem museus sobre os colonizadores e mirantes de montanha como a Chiesetta Alpina.",
+    "highlights": [
+      "Chiesetta Alpina",
+      "Morro da Boa Vista",
+      "Parque Malwee"
+    ],
+    "affiliateLinks": {}
+  },
+  {
+    "id": "brusque-sc",
+    "name": "Brusque",
+    "state": "SC",
+    "lat": -27.0978,
+    "lng": -48.9106,
+    "types": [
+      "cidade",
+      "natureza"
+    ],
+    "bestMonths": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "idealDays": {
+      "min": 2,
+      "max": 2
+    },
+    "costRange": 2,
+    "summary": "Uma das melhores opções de turismo de compras em SC, com lojas de fábrica, igrejas imponentes e cavernas a 38 km do centro.",
+    "highlights": [
+      "Cavernas de Botuverá",
+      "Parque das Esculturas",
+      "Shoppings de fábrica"
+    ],
+    "affiliateLinks": {}
+  },
+  {
+    "id": "jose-boiteux-sc",
+    "name": "José Boiteux",
+    "state": "SC",
+    "lat": -27.1719,
+    "lng": -49.6142,
+    "types": [
+      "natureza"
+    ],
+    "bestMonths": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "idealDays": {
+      "min": 2,
+      "max": 2
+    },
+    "costRange": 1,
+    "summary": "Pequena cidade que guarda três belas cachoeiras de grande beleza cênica, ainda fora do radar da maioria dos turistas.",
+    "highlights": [
+      "Cachoeira do Rio Wiegand",
+      "Cachoeira do Rio Laeisz",
+      "Cachoeira do Encontro"
+    ],
+    "affiliateLinks": {}
+  },
+  {
+    "id": "rio-negrinho-sc",
+    "name": "Rio Negrinho",
+    "state": "SC",
+    "lat": -26.2569,
+    "lng": -49.5211,
+    "types": [
+      "historia",
+      "natureza"
+    ],
+    "bestMonths": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "idealDays": {
+      "min": 2,
+      "max": 2
+    },
+    "costRange": 2,
+    "summary": "Ponto de partida do passeio de Maria Fumaça mais longo do Brasil com locomotiva a vapor, até a vizinha Corupá.",
+    "highlights": [
+      "Maria Fumaça (Trem da Serra do Mar)",
+      "Fazenda Evaristo",
+      "Estação ferroviária histórica"
+    ],
+    "affiliateLinks": {}
+  },
+  {
+    "id": "sao-bento-do-sul-sc",
+    "name": "São Bento do Sul",
+    "state": "SC",
+    "lat": -26.2506,
+    "lng": -49.3789,
+    "types": [
+      "historia",
+      "cidade"
+    ],
+    "bestMonths": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "idealDays": {
+      "min": 2,
+      "max": 2
+    },
+    "costRange": 2,
+    "summary": "Maior cidade do Nordeste catarinense, com arquitetura enxaimel e uma igreja matriz no alto de um morro com escadaria imponente.",
+    "highlights": [
+      "Igreja matriz e escadaria",
+      "Cachoeira do Braço Esquerdo",
+      "Morro da Igreja (formação rochosa)"
+    ],
+    "affiliateLinks": {}
+  },
+  {
+    "id": "campo-alegre-sc",
+    "name": "Campo Alegre",
+    "state": "SC",
+    "lat": -26.1789,
+    "lng": -49.2647,
+    "types": [
+      "natureza",
+      "serra"
+    ],
+    "bestMonths": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "idealDays": {
+      "min": 2,
+      "max": 2
+    },
+    "costRange": 2,
+    "summary": "Refúgio de araucárias e cabanas no alto da Serra Dona Francisca, ótimo destino de turismo rural para descansar do calor do litoral.",
+    "highlights": [
+      "Cascata Paraíso",
+      "Salto do Engenho",
+      "Paisagens de araucárias"
+    ],
+    "affiliateLinks": {}
+  },
+  {
+    "id": "antonina-pr",
+    "name": "Antonina",
+    "state": "PR",
+    "lat": -25.4406,
+    "lng": -48.7119,
+    "types": [
+      "historia",
+      "natureza"
+    ],
+    "bestMonths": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "idealDays": {
+      "min": 2,
+      "max": 2
+    },
+    "costRange": 2,
+    "summary": "Cidade histórica fundada em 1714, de frente para a Baía de Paranaguá, com prédios antigos e passeios de barco e aventura.",
+    "highlights": [
+      "Centro histórico à beira da baía",
+      "Passeios de barco pela Baía de Paranaguá",
+      "Pico Paraná"
+    ],
+    "affiliateLinks": {}
+  },
+  {
+    "id": "paranagua-pr",
+    "name": "Paranaguá",
+    "state": "PR",
+    "lat": -25.5161,
+    "lng": -48.5225,
+    "types": [
+      "historia",
+      "cidade"
+    ],
+    "bestMonths": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "idealDays": {
+      "min": 2,
+      "max": 2
+    },
+    "costRange": 2,
+    "summary": "Cidade portuária e porta de entrada para a Ilha do Mel, com casario histórico preservado às margens do Rio Itiberê.",
+    "highlights": [
+      "Casario histórico do Rio Itiberê",
+      "Porto de Paranaguá",
+      "Passeios de barco pela baía"
+    ],
+    "affiliateLinks": {}
+  },
+  {
+    "id": "jaguariaiva-pr",
+    "name": "Jaguariaíva",
+    "state": "PR",
+    "lat": -24.2481,
+    "lng": -49.7061,
+    "types": [
+      "natureza"
+    ],
+    "bestMonths": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "idealDays": {
+      "min": 2,
+      "max": 2
+    },
+    "costRange": 1,
+    "summary": "Um dos municípios mais antigos do Paraná, mas o que atrai hoje são as cachoeiras, cânions e formações rochosas dos Campos Gerais.",
+    "highlights": [
+      "Cachoeira Véu da Noiva",
+      "Cachoeira das Andorinhas",
+      "Cânions da região"
+    ],
+    "affiliateLinks": {}
+  },
+  {
+    "id": "londrina-pr",
+    "name": "Londrina",
+    "state": "PR",
+    "lat": -23.3103,
+    "lng": -51.1628,
+    "types": [
+      "cidade"
+    ],
+    "bestMonths": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "idealDays": {
+      "min": 2,
+      "max": 3
+    },
+    "costRange": 2,
+    "summary": "Maior cidade do interior do Paraná, moderna e planejada, com parques e bosques cercados por Mata Atlântica dentro da própria cidade.",
+    "highlights": [
+      "Parque Arthur Thomas",
+      "Jardim Botânico de Londrina",
+      "Bosque Municipal Marechal Cândido Rondon"
+    ],
+    "affiliateLinks": {}
+  },
+  {
+    "id": "maringa-pr",
+    "name": "Maringá",
+    "state": "PR",
+    "lat": -23.4205,
+    "lng": -51.9331,
+    "types": [
+      "cidade"
+    ],
+    "bestMonths": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "idealDays": {
+      "min": 2,
+      "max": 3
+    },
+    "costRange": 2,
+    "summary": "Cidade planejada com largas avenidas e áreas verdes, dona do monumento religioso mais alto da América do Sul.",
+    "highlights": [
+      "Catedral Basílica Menor Nossa Senhora da Glória",
+      "Avenidas arborizadas",
+      "Cultura e folclore da colonização"
+    ],
+    "affiliateLinks": {}
+  },
+  {
+    "id": "iretama-pr",
+    "name": "Iretama",
+    "state": "PR",
+    "lat": -24.4394,
+    "lng": -52.1439,
+    "types": [
+      "termas"
+    ],
+    "bestMonths": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "idealDays": {
+      "min": 2,
+      "max": 2
+    },
+    "costRange": 2,
+    "summary": "Pequena cidade paranaense conhecida por abrigar o parque termal Jurema Águas Quentes.",
+    "highlights": [
+      "Jurema Águas Quentes",
+      "Piscinas termais",
+      "Zona rural do interior do PR"
+    ],
+    "affiliateLinks": {}
   }
 ]
