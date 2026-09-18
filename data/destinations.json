@@ -644,5 +644,942 @@
       "Mercado Público"
     ],
     "affiliateLinks": {}
+  },
+  {
+    "id": "ita-sc",
+    "name": "Itá",
+    "state": "SC",
+    "lat": -27.2864,
+    "lng": -52.3286,
+    "types": [
+      "termas",
+      "historia",
+      "natureza"
+    ],
+    "bestMonths": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "idealDays": {
+      "min": 2,
+      "max": 3
+    },
+    "costRange": 2,
+    "summary": "Uma cidade inteira foi reconstruída no alto do morro, e só as torres da antiga igreja ficaram de pé no meio do lago, com águas termais a poucos minutos.",
+    "highlights": [
+      "Torres da Antiga Igreja Matriz São Pedro",
+      "Aqua Parque Itá Thermas",
+      "Mirante Belvedere Dona Roma"
+    ],
+    "affiliateLinks": {}
+  },
+  {
+    "id": "joinville-sc",
+    "name": "Joinville",
+    "state": "SC",
+    "lat": -26.3045,
+    "lng": -48.8487,
+    "types": [
+      "cidade",
+      "historia",
+      "gastronomia"
+    ],
+    "bestMonths": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "idealDays": {
+      "min": 2,
+      "max": 3
+    },
+    "costRange": 2,
+    "summary": "A maior cidade de SC guarda a herança dos imigrantes alemães e suíços e, em julho, vira palco do maior festival de dança do mundo.",
+    "highlights": [
+      "Rua das Palmeiras",
+      "Museu Nacional de Imigração e Colonização",
+      "Festival de Dança de Joinville"
+    ],
+    "affiliateLinks": {}
+  },
+  {
+    "id": "sao-francisco-do-sul-sc",
+    "name": "São Francisco do Sul",
+    "state": "SC",
+    "lat": -26.2434,
+    "lng": -48.6382,
+    "types": [
+      "historia",
+      "praia",
+      "cidade"
+    ],
+    "bestMonths": [
+      1,
+      2,
+      3,
+      4,
+      10,
+      11,
+      12
+    ],
+    "idealDays": {
+      "min": 2,
+      "max": 4
+    },
+    "costRange": 2,
+    "summary": "Uma das cidades mais antigas do Brasil, com casario colonial tombado de frente para a baía e praias de mar aberto do outro lado da ilha.",
+    "highlights": [
+      "Centro Histórico de São Francisco do Sul",
+      "Museu Nacional do Mar",
+      "Forte Marechal Luz"
+    ],
+    "affiliateLinks": {}
+  },
+  {
+    "id": "bombinhas-sc",
+    "name": "Bombinhas",
+    "state": "SC",
+    "lat": -27.1391,
+    "lng": -48.4823,
+    "types": [
+      "praia",
+      "natureza"
+    ],
+    "bestMonths": [
+      11,
+      12,
+      1,
+      2,
+      3
+    ],
+    "idealDays": {
+      "min": 3,
+      "max": 5
+    },
+    "costRange": 3,
+    "summary": "Tem águas tão transparentes que é referência nacional em mergulho, com dezenas de praias pequenas espalhadas numa só península.",
+    "highlights": [
+      "Praia de Quatro Ilhas",
+      "Reserva Biológica Marinha do Arvoredo",
+      "Praia do Mariscal"
+    ],
+    "affiliateLinks": {}
+  },
+  {
+    "id": "laguna-sc",
+    "name": "Laguna",
+    "state": "SC",
+    "lat": -28.4826,
+    "lng": -48.7802,
+    "types": [
+      "historia",
+      "praia",
+      "natureza"
+    ],
+    "bestMonths": [
+      11,
+      12,
+      1,
+      2,
+      3,
+      4
+    ],
+    "idealDays": {
+      "min": 2,
+      "max": 4
+    },
+    "costRange": 2,
+    "summary": "Terra de Anita Garibaldi, onde botos ajudam pescadores a cercar os cardumes e um farol do século XIX domina as dunas.",
+    "highlights": [
+      "Farol de Santa Marta",
+      "Centro Histórico de Laguna",
+      "Casa de Anita Garibaldi"
+    ],
+    "affiliateLinks": {}
+  },
+  {
+    "id": "lages-sc",
+    "name": "Lages",
+    "state": "SC",
+    "lat": -27.8161,
+    "lng": -50.3264,
+    "types": [
+      "serra",
+      "cidade",
+      "natureza"
+    ],
+    "bestMonths": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "idealDays": {
+      "min": 2,
+      "max": 3
+    },
+    "costRange": 2,
+    "summary": "Capital do Planalto Serrano catarinense, com campos de altitude, clima frio e tradição tropeira.",
+    "highlights": [
+      "Coxilha Rica",
+      "Morro da Cruz",
+      "Catedral Diocesana Nossa Senhora dos Prazeres"
+    ],
+    "affiliateLinks": {}
+  },
+  {
+    "id": "imbituba-sc",
+    "name": "Imbituba",
+    "state": "SC",
+    "lat": -28.24,
+    "lng": -48.6703,
+    "types": [
+      "praia",
+      "natureza",
+      "cidade"
+    ],
+    "bestMonths": [
+      1,
+      2,
+      3,
+      4,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "idealDays": {
+      "min": 3,
+      "max": 5
+    },
+    "costRange": 2,
+    "summary": "Capital da Baleia Franca, com praias de surf renomadas e observação de baleias no inverno.",
+    "highlights": [
+      "Praia do Rosa",
+      "Lagoa de Ibiraquera",
+      "Praia da Vila"
+    ],
+    "affiliateLinks": {}
+  },
+  {
+    "id": "nova-trento-sc",
+    "name": "Nova Trento",
+    "state": "SC",
+    "lat": -27.2856,
+    "lng": -48.9294,
+    "types": [
+      "historia",
+      "gastronomia",
+      "cidade"
+    ],
+    "bestMonths": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "idealDays": {
+      "min": 2,
+      "max": 3
+    },
+    "costRange": 2,
+    "summary": "A herança trentina aparece na arquitetura, na gastronomia e no complexo dedicado à história de Santa Paulina.",
+    "highlights": [
+      "Santuário Santa Paulina",
+      "Museu Colonial",
+      "Casa da Cultura de Nova Trento"
+    ],
+    "affiliateLinks": {}
+  },
+  {
+    "id": "nova-petropolis-rs",
+    "name": "Nova Petrópolis",
+    "state": "RS",
+    "lat": -29.3781,
+    "lng": -51.1122,
+    "types": [
+      "serra",
+      "cidade",
+      "gastronomia"
+    ],
+    "bestMonths": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "idealDays": {
+      "min": 2,
+      "max": 3
+    },
+    "costRange": 2,
+    "summary": "A Capital Nacional do Cooperativismo é a alternativa mais tranquila e barata da Serra Gaúcha, com cultura alemã e café colonial farto.",
+    "highlights": [
+      "Parque Aldeia do Imigrante",
+      "Labirinto Verde da Praça das Flores",
+      "Ninho das Águias"
+    ],
+    "affiliateLinks": {}
+  },
+  {
+    "id": "garibaldi-rs",
+    "name": "Garibaldi",
+    "state": "RS",
+    "lat": -29.2569,
+    "lng": -51.5344,
+    "types": [
+      "vinho",
+      "gastronomia",
+      "historia"
+    ],
+    "bestMonths": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "idealDays": {
+      "min": 2,
+      "max": 3
+    },
+    "costRange": 2,
+    "summary": "A Capital Brasileira do Espumante, com vinícolas centenárias e um centro histórico de casarões italianos bem preservado.",
+    "highlights": [
+      "Vinícola Peterlongo",
+      "Cooperativa Vinícola Garibaldi",
+      "Centro Histórico da Rua Buarque de Macedo"
+    ],
+    "affiliateLinks": {}
+  },
+  {
+    "id": "torres-rs",
+    "name": "Torres",
+    "state": "RS",
+    "lat": -29.335,
+    "lng": -49.727,
+    "types": [
+      "praia",
+      "natureza",
+      "cidade"
+    ],
+    "bestMonths": [
+      11,
+      12,
+      1,
+      2,
+      3
+    ],
+    "idealDays": {
+      "min": 2,
+      "max": 4
+    },
+    "costRange": 2,
+    "summary": "A única praia gaúcha com falésias de basalto caindo direto no mar, e com o único refúgio de vida silvestre marinho do estado.",
+    "highlights": [
+      "Parque Estadual da Guarita",
+      "Morro do Farol",
+      "Refúgio de Vida Silvestre da Ilha dos Lobos"
+    ],
+    "affiliateLinks": {}
+  },
+  {
+    "id": "pelotas-rs",
+    "name": "Pelotas",
+    "state": "RS",
+    "lat": -31.7654,
+    "lng": -52.3376,
+    "types": [
+      "gastronomia",
+      "historia",
+      "cidade"
+    ],
+    "bestMonths": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "idealDays": {
+      "min": 2,
+      "max": 3
+    },
+    "costRange": 2,
+    "summary": "A riqueza das antigas charqueadas deixou casarões imponentes e uma tradição de doces portugueses reconhecida como patrimônio imaterial.",
+    "highlights": [
+      "Museu do Doce da UFPel",
+      "Mercado Público de Pelotas",
+      "Charqueada São João"
+    ],
+    "affiliateLinks": {}
+  },
+  {
+    "id": "farroupilha-rs",
+    "name": "Farroupilha",
+    "state": "RS",
+    "lat": -29.2233,
+    "lng": -51.3467,
+    "types": [
+      "vinho",
+      "gastronomia",
+      "natureza"
+    ],
+    "bestMonths": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "idealDays": {
+      "min": 2,
+      "max": 3
+    },
+    "costRange": 2,
+    "summary": "A Capital Brasileira do Espumante Moscatel combina vinhedos, tradição italiana e cachoeiras a poucos minutos do centro.",
+    "highlights": [
+      "Vinícola Aurora",
+      "Cascata do Salto Ventoso",
+      "Santuário de Nossa Senhora de Caravaggio"
+    ],
+    "affiliateLinks": {}
+  },
+  {
+    "id": "caxias-do-sul-rs",
+    "name": "Caxias do Sul",
+    "state": "RS",
+    "lat": -29.1634,
+    "lng": -51.1797,
+    "types": [
+      "vinho",
+      "gastronomia",
+      "cidade"
+    ],
+    "bestMonths": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "idealDays": {
+      "min": 2,
+      "max": 4
+    },
+    "costRange": 2,
+    "summary": "Maior polo da Serra Gaúcha, une cultura italiana, vinícolas premiadas e uma cena gastronômica forte.",
+    "highlights": [
+      "Vinícola Miolo",
+      "Casa Valduga",
+      "Monumento Nacional ao Imigrante"
+    ],
+    "affiliateLinks": {}
+  },
+  {
+    "id": "tramandai-rs",
+    "name": "Tramandaí",
+    "state": "RS",
+    "lat": -29.985,
+    "lng": -50.133,
+    "types": [
+      "praia",
+      "cidade",
+      "gastronomia"
+    ],
+    "bestMonths": [
+      11,
+      12,
+      1,
+      2,
+      3
+    ],
+    "idealDays": {
+      "min": 2,
+      "max": 4
+    },
+    "costRange": 2,
+    "summary": "Litoral norte gaúcho com praias calmas, lagoa e excelente gastronomia de frutos do mar.",
+    "highlights": [
+      "Praia de Tramandaí",
+      "Lagoa de Tramandaí",
+      "Parque da Guarita"
+    ],
+    "affiliateLinks": {}
+  },
+  {
+    "id": "sao-francisco-de-paula-rs",
+    "name": "São Francisco de Paula",
+    "state": "RS",
+    "lat": -29.4486,
+    "lng": -50.5822,
+    "types": [
+      "serra",
+      "natureza",
+      "cidade"
+    ],
+    "bestMonths": [
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "idealDays": {
+      "min": 2,
+      "max": 4
+    },
+    "costRange": 2,
+    "summary": "Um refúgio serrano de clima frio com araucárias, lagos e trilhas que levam a cachoeiras.",
+    "highlights": [
+      "Lago São Bernardo",
+      "Parque das 8 Cachoeiras",
+      "Passo do Inferno"
+    ],
+    "affiliateLinks": {}
+  },
+  {
+    "id": "morretes-pr",
+    "name": "Morretes",
+    "state": "PR",
+    "lat": -25.4772,
+    "lng": -48.8342,
+    "types": [
+      "serra",
+      "gastronomia",
+      "historia"
+    ],
+    "bestMonths": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "idealDays": {
+      "min": 2,
+      "max": 3
+    },
+    "costRange": 2,
+    "summary": "Chega-se descendo a Serra do Mar em plena Mata Atlântica e o prêmio é o barreado, prato típico cozido por horas em panela de barro.",
+    "highlights": [
+      "Trem Curitiba–Morretes (Serra Verde Express)",
+      "Estrada da Graciosa",
+      "Centro Histórico de Morretes"
+    ],
+    "affiliateLinks": {}
+  },
+  {
+    "id": "ilha-do-mel-pr",
+    "name": "Ilha do Mel",
+    "state": "PR",
+    "lat": -25.5233,
+    "lng": -48.3153,
+    "types": [
+      "praia",
+      "natureza",
+      "historia"
+    ],
+    "bestMonths": [
+      11,
+      12,
+      1,
+      2,
+      3,
+      4
+    ],
+    "idealDays": {
+      "min": 3,
+      "max": 5
+    },
+    "costRange": 2,
+    "summary": "Ilha sem carros, com visitantes limitados por dia, onde tudo se faz a pé entre trilhas, faróis e uma fortaleza do século XVIII.",
+    "highlights": [
+      "Farol das Conchas",
+      "Gruta das Encantadas",
+      "Fortaleza de Nossa Senhora dos Prazeres"
+    ],
+    "affiliateLinks": {}
+  },
+  {
+    "id": "ponta-grossa-pr",
+    "name": "Ponta Grossa",
+    "state": "PR",
+    "lat": -25.095,
+    "lng": -50.1619,
+    "types": [
+      "natureza",
+      "serra",
+      "historia"
+    ],
+    "bestMonths": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "idealDays": {
+      "min": 2,
+      "max": 3
+    },
+    "costRange": 2,
+    "summary": "Formações de arenito esculpidas pelo vento há milhões de anos, furnas gigantes e cachoeiras escondidas nos Campos Gerais.",
+    "highlights": [
+      "Parque Estadual de Vila Velha",
+      "Buraco do Padre",
+      "Furnas Gêmeas"
+    ],
+    "affiliateLinks": {}
+  },
+  {
+    "id": "tibagi-pr",
+    "name": "Tibagi",
+    "state": "PR",
+    "lat": -24.5175,
+    "lng": -50.4147,
+    "types": [
+      "natureza"
+    ],
+    "bestMonths": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "idealDays": {
+      "min": 2,
+      "max": 3
+    },
+    "costRange": 1,
+    "summary": "Abriga um dos maiores cânions do Brasil em extensão, pouco conhecido e ainda longe das multidões.",
+    "highlights": [
+      "Parque Estadual do Guartelá",
+      "Cânion Guartelá",
+      "Panelões do Sumidouro"
+    ],
+    "affiliateLinks": {}
+  },
+  {
+    "id": "prudentopolis-pr",
+    "name": "Prudentópolis",
+    "state": "PR",
+    "lat": -25.2119,
+    "lng": -50.9764,
+    "types": [
+      "natureza",
+      "historia"
+    ],
+    "bestMonths": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "idealDays": {
+      "min": 2,
+      "max": 3
+    },
+    "costRange": 2,
+    "summary": "A Terra das Cachoeiras Gigantes reúne quedas de mais de 100 metros e a comunidade ucraniana mais marcante do país.",
+    "highlights": [
+      "Salto São Francisco",
+      "Salto São João",
+      "Igreja Ucraniana São Josafat"
+    ],
+    "affiliateLinks": {}
+  },
+  {
+    "id": "lapa-pr",
+    "name": "Lapa",
+    "state": "PR",
+    "lat": -25.7658,
+    "lng": -49.7178,
+    "types": [
+      "historia",
+      "natureza"
+    ],
+    "bestMonths": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "idealDays": {
+      "min": 2,
+      "max": 2
+    },
+    "costRange": 1,
+    "summary": "Palco do Cerco da Lapa na Revolução Federalista, tem um centro histórico tombado inteiro e uma gruta cercada de lendas.",
+    "highlights": [
+      "Centro Histórico da Lapa",
+      "Panteon dos Heróis",
+      "Parque Estadual do Monge"
+    ],
+    "affiliateLinks": {}
+  },
+  {
+    "id": "matinhos-pr",
+    "name": "Matinhos",
+    "state": "PR",
+    "lat": -25.8181,
+    "lng": -48.5378,
+    "types": [
+      "praia",
+      "cidade",
+      "natureza"
+    ],
+    "bestMonths": [
+      11,
+      12,
+      1,
+      2,
+      3
+    ],
+    "idealDays": {
+      "min": 2,
+      "max": 4
+    },
+    "costRange": 2,
+    "summary": "Litoral paranaense com praias calmas, rios que descem da serra e proximidade com a Ilha do Mel.",
+    "highlights": [
+      "Praia de Caiobá",
+      "Praia Mansa",
+      "Parque Rio da Onça"
+    ],
+    "affiliateLinks": {}
+  },
+  {
+    "id": "guaratuba-pr",
+    "name": "Guaratuba",
+    "state": "PR",
+    "lat": -25.8836,
+    "lng": -48.575,
+    "types": [
+      "praia",
+      "historia",
+      "cidade"
+    ],
+    "bestMonths": [
+      11,
+      12,
+      1,
+      2,
+      3
+    ],
+    "idealDays": {
+      "min": 2,
+      "max": 3
+    },
+    "costRange": 2,
+    "summary": "Cidade histórica do litoral paranaense com cultivo de ostras e travessia de balsa para o mar.",
+    "highlights": [
+      "Ilha de Itacolomi",
+      "Salto Parati",
+      "Cultivo de Ostras"
+    ],
+    "affiliateLinks": {}
+  },
+  {
+    "id": "castro-pr",
+    "name": "Castro",
+    "state": "PR",
+    "lat": -24.7908,
+    "lng": -50.0111,
+    "types": [
+      "historia",
+      "cidade",
+      "gastronomia"
+    ],
+    "bestMonths": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "idealDays": {
+      "min": 2,
+      "max": 3
+    },
+    "costRange": 2,
+    "summary": "A antiga rota dos tropeiros ganha um roteiro cultural em meio à colonização holandesa e à paisagem dos Campos Gerais.",
+    "highlights": [
+      "Colônia Castrolanda",
+      "Museu do Tropeiro",
+      "Fazenda Capão Alto"
+    ],
+    "affiliateLinks": {}
+  },
+  {
+    "id": "iporanga-sp",
+    "name": "Iporanga (PETAR)",
+    "state": "SP",
+    "lat": -24.5844,
+    "lng": -48.5989,
+    "types": [
+      "natureza"
+    ],
+    "bestMonths": [
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "idealDays": {
+      "min": 3,
+      "max": 5
+    },
+    "costRange": 1,
+    "summary": "A maior concentração de cavernas do Brasil, com rios subterrâneos e cachoeiras no meio da Mata Atlântica preservada do Vale do Ribeira.",
+    "highlights": [
+      "Caverna Santana",
+      "Caverna Casa de Pedra",
+      "Cachoeira do Couto"
+    ],
+    "affiliateLinks": {}
+  },
+  {
+    "id": "cananeia-sp",
+    "name": "Cananéia",
+    "state": "SP",
+    "lat": -25.0122,
+    "lng": -47.9264,
+    "types": [
+      "natureza",
+      "historia",
+      "praia"
+    ],
+    "bestMonths": [
+      12,
+      1,
+      2,
+      3,
+      4
+    ],
+    "idealDays": {
+      "min": 3,
+      "max": 5
+    },
+    "costRange": 1,
+    "summary": "Uma das cidades mais antigas do país, no meio de um labirinto de mangues, ilhas e golfinhos no Lagamar paulista.",
+    "highlights": [
+      "Parque Estadual Ilha do Cardoso",
+      "Centro Histórico de Cananéia",
+      "Mirante do Morro São João"
+    ],
+    "affiliateLinks": {}
   }
 ]
