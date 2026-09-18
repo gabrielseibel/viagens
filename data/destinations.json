@@ -3717,5 +3717,71 @@
       "Carnaval Encarnaceno"
     ],
     "affiliateLinks": {}
+  },
+  {
+    "id": "rivera-uy",
+    "name": "Rivera",
+    "state": "Uruguai",
+    "lat": -30.9053,
+    "lng": -55.5508,
+    "types": [
+      "cidade"
+    ],
+    "bestMonths": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "idealDays": {
+      "min": 2,
+      "max": 2
+    },
+    "costRange": 2,
+    "summary": "Colada à brasileira Santana do Livramento, é procurada pelas lojas francas de fronteira e por um parque que atravessa os dois países.",
+    "highlights": [
+      "Zona Franca (compras)",
+      "Parque Internacional",
+      "Cerro Marconi (mirante)"
+    ],
+    "affiliateLinks": {}
+  },
+  {
+    "id": "chuy-uy",
+    "name": "Chuy",
+    "state": "Uruguai",
+    "lat": -33.6971,
+    "lng": -53.4616,
+    "types": [
+      "cidade",
+      "historia"
+    ],
+    "bestMonths": [
+      11,
+      12,
+      1,
+      2,
+      3
+    ],
+    "idealDays": {
+      "min": 2,
+      "max": 3
+    },
+    "costRange": 2,
+    "summary": "O ponto mais ao sul do Brasil vira Uruguai só atravessando a avenida: lojas francas na cidade e, a 35 km, a bem preservada Fortaleza de Santa Teresa.",
+    "highlights": [
+      "Zona franca de Chuy",
+      "Fortaleza de Santa Teresa",
+      "Praias do Departamento de Rocha"
+    ],
+    "affiliateLinks": {}
   }
 ]

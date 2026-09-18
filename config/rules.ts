@@ -7,6 +7,7 @@ export const MAX_HOURS_BY_DAYS: { minDays: number; maxHours: number }[] = [
   { minDays: 4, maxHours: 7 },
   { minDays: 6, maxHours: 10 },
   { minDays: 8, maxHours: 12 },
+  { minDays: 15, maxHours: 16 },
 ];
 
 export const DAY_OPTIONS = [2, 3, 4, 5, 7, 10, 15] as const;

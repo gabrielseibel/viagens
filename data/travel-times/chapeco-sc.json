@@ -106,5 +106,7 @@
   "ciudad-del-este-py": { "minutes": 430, "km": 450 },
   "san-ignacio-ar": { "minutes": 645, "km": 690 },
   "posadas-ar": { "minutes": 700, "km": 760 },
-  "encarnacion-py": { "minutes": 715, "km": 780 }
+  "encarnacion-py": { "minutes": 715, "km": 780 },
+  "rivera-uy": { "minutes": 870, "km": 980 },
+  "chuy-uy": { "minutes": 945, "km": 1070 }
 }

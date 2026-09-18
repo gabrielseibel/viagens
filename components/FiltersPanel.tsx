@@ -75,7 +75,7 @@ export default function FiltersPanel() {
           <input
             type="range"
             min={1}
-            max={14}
+            max={18}
             step={0.5}
             value={filters.maxHours}
             onChange={(e) => update({ maxHours: parseFloat(e.target.value) })}

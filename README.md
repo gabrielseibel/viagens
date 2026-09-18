@@ -66,13 +66,16 @@ Nenhuma chamada à ORS acontece durante o uso normal do site — só ao rodar es
 
 Configurável em `config/rules.ts`:
 
-| Dias | Tempo máximo sugerido (só ida) |
-|------|--------------------------------|
-| 2    | 3h                             |
-| 3    | 5h                             |
-| 4–5  | 7h                             |
-| 6–7  | 10h                            |
-| 8+   | 12h                             |
+| Dias  | Tempo máximo sugerido (só ida) |
+|-------|--------------------------------|
+| 2     | 3h                             |
+| 3     | 5h                             |
+| 4–5   | 7h                             |
+| 6–7   | 10h                            |
+| 8–14  | 12h                             |
+| 15    | 16h                             |
+
+O slider de "tempo máximo de estrada" permite ajustar manualmente até 18h, pra dar espaço a destinos mais distantes (ex.: cidades de fronteira no Uruguai) mesmo fora da sugestão automática.
 
 Índice de estrada (`horasNaEstrada / horasDisponíveis`, com 10h úteis por dia):
 
