@@ -101,5 +101,10 @@
   "jaguariaiva-pr": { "minutes": 465, "km": 480 },
   "londrina-pr": { "minutes": 591, "km": 640 },
   "maringa-pr": { "minutes": 646, "km": 700 },
-  "iretama-pr": { "minutes": 445, "km": 460 }
+  "iretama-pr": { "minutes": 445, "km": 460 },
+  "puerto-iguazu-ar": { "minutes": 440, "km": 460 },
+  "ciudad-del-este-py": { "minutes": 430, "km": 450 },
+  "san-ignacio-ar": { "minutes": 645, "km": 690 },
+  "posadas-ar": { "minutes": 700, "km": 760 },
+  "encarnacion-py": { "minutes": 715, "km": 780 }
 }

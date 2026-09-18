@@ -3541,5 +3541,181 @@
       "Zona rural do interior do PR"
     ],
     "affiliateLinks": {}
+  },
+  {
+    "id": "puerto-iguazu-ar",
+    "name": "Puerto Iguazú",
+    "state": "Argentina",
+    "lat": -25.5972,
+    "lng": -54.5736,
+    "types": [
+      "natureza"
+    ],
+    "bestMonths": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "idealDays": {
+      "min": 2,
+      "max": 3
+    },
+    "costRange": 2,
+    "summary": "Do lado argentino das Cataratas do Iguaçu, as passarelas levam bem mais perto da água, culminando na imponente Garganta del Diablo.",
+    "highlights": [
+      "Garganta del Diablo",
+      "Passarelas do Parque Nacional Iguazú (lado argentino)",
+      "Hito Argentino (marco das três fronteiras)"
+    ],
+    "affiliateLinks": {}
+  },
+  {
+    "id": "ciudad-del-este-py",
+    "name": "Ciudad del Este",
+    "state": "Paraguai",
+    "lat": -25.5163,
+    "lng": -54.6161,
+    "types": [
+      "cidade",
+      "natureza"
+    ],
+    "bestMonths": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "idealDays": {
+      "min": 1,
+      "max": 2
+    },
+    "costRange": 2,
+    "summary": "Cruzando a Ponte da Amizade a partir de Foz do Iguaçu, é o point clássico de compras de fronteira, com os Saltos del Monday como bônus natural.",
+    "highlights": [
+      "Ponte da Amizade",
+      "Comércio de fronteira e shoppings",
+      "Saltos del Monday"
+    ],
+    "affiliateLinks": {}
+  },
+  {
+    "id": "san-ignacio-ar",
+    "name": "San Ignacio",
+    "state": "Argentina",
+    "lat": -27.2597,
+    "lng": -55.5372,
+    "types": [
+      "historia"
+    ],
+    "bestMonths": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "idealDays": {
+      "min": 2,
+      "max": 2
+    },
+    "costRange": 1,
+    "summary": "Abriga as ruínas jesuíticas de San Ignacio Miní, Patrimônio Mundial da UNESCO, entre as mais bem preservadas da região das missões guaranis.",
+    "highlights": [
+      "Ruínas de San Ignacio Miní (UNESCO)",
+      "Casa Museu de Horacio Quiroga",
+      "Parque Provincial Teyú Cuaré"
+    ],
+    "affiliateLinks": {}
+  },
+  {
+    "id": "posadas-ar",
+    "name": "Posadas",
+    "state": "Argentina",
+    "lat": -27.3671,
+    "lng": -55.8961,
+    "types": [
+      "cidade",
+      "historia"
+    ],
+    "bestMonths": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "idealDays": {
+      "min": 2,
+      "max": 3
+    },
+    "costRange": 2,
+    "summary": "Capital da província de Misiones, com uma costanera agradável à beira do Rio Paraná e boa base para visitar as ruínas jesuíticas da região.",
+    "highlights": [
+      "Costanera de Posadas",
+      "Museu Regional Aníbal Cambas",
+      "Ponte internacional para Encarnación (Paraguai)"
+    ],
+    "affiliateLinks": {}
+  },
+  {
+    "id": "encarnacion-py",
+    "name": "Encarnación",
+    "state": "Paraguai",
+    "lat": -27.3306,
+    "lng": -55.8664,
+    "types": [
+      "praia",
+      "historia"
+    ],
+    "bestMonths": [
+      11,
+      12,
+      1,
+      2,
+      3
+    ],
+    "idealDays": {
+      "min": 2,
+      "max": 3
+    },
+    "costRange": 2,
+    "summary": "Conhecida como a Riviera Paraguaia, tem praias de rio no verão e as ruínas jesuíticas de Trinidad, também Patrimônio da UNESCO, a poucos km do centro.",
+    "highlights": [
+      "Costanera de Encarnación (praias de rio)",
+      "Ruínas Jesuíticas de Trinidad (UNESCO)",
+      "Carnaval Encarnaceno"
+    ],
+    "affiliateLinks": {}
   }
 ]
